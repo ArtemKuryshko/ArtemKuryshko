@@ -5,8 +5,6 @@ Welcome to my GitHub! I'm a passionate Front-End developer from Kyiv, Ukraine �
 ---
 
 ## 🧠 About Me
-
-- 🔭 Currently working as a **Front-End Engineer** at [Planning.how](https://planning.how)
 - 🧰 Tech stack: `React`, `TypeScript`, `MobX`, `Node.js`, `Next.js`, `Ruby on Rails`
 - 🧪 Experience with `Jest`, `E2E tests`, and `CI/CD pipelines`
 - 🌐 Fluent in `HTML`, `CSS`, and frameworks like `TailwindCSS` and `Bootstrap`
